@@ -35,3 +35,7 @@ htmlcov/
 # ── Deployment artifacts ──────────────────────────────────
 *.pid
 *.sock
+
+# ── Databases ─────────────────────────────────────────────
+*.db
+*.sqlite
